@@ -1,0 +1,11 @@
+Java8 features,abstraction,interface,gateway,program to find distinct elements in given array
+
+Java questions 1. Internal implementation of hashmap 2. Thread safe collections
+
+Java. Questions may cover topics like JVM, garbage collection, multithreading, and Java 8 features like streams and lambdas. 
+
+ct-oriented programming generally referred to as OOPS is the backbone of java as java is not a purely object oriented language but it is object oriented language. Java organizes a program around the various objects and well-defined inte
+
+Java 8 feature and multithreading
+
+Core Java Stream API Features of Java 8 SQL queries to get the Second Highest Salary from the Employee Table
