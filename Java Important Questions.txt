@@ -9,3 +9,78 @@ ct-oriented programming generally referred to as OOPS is the backbone of java as
 Java 8 feature and multithreading
 
 Core Java Stream API Features of Java 8 SQL queries to get the Second Highest Salary from the Employee Table
+
+They asked oops related questions, and boomer questions of java.
+
+Java 8 streams Coding question 3. Questions on REST APIs and Microservices 4. which microservices patterns have you used in project 5. have you used saga or circuit breaker pattern
+1. Remove second non repeating character from string using java 8 streams 2. What is eureka and feign 3. when will you use soap and when rest 4. disadvantages of rest apis 5. fail-fast and fail safe collections 6. idempotent methods in rest api
+
+Java 8 coding round, oops, SQL queries, functional interface default method. Difference between interface and functions interface. More about micro service and then project discussion
+
+diff between jvm and jdk
+
+Rotate Array {1,2,3,4,5,6,7,8} and expected output should be {7,8,1,2,4,5,6}
+
+Odbc.. Jdbc.. Api.. Threads.. Synchronization.
+
+Jdbc connection that 7 step.. Classes present in java. Util. Regex.. What is mokey patching.. What is pip..
+
+Java 8, Collections, Memory Management, Spring, 
+
+Basic java concept- OOPS, Threading, Collection. Why string is immutable? hash code? For each? hashMap Threading Then questions about frameworks Hibernate, Spring frmaework
+
+Explain about your self. 2. Explain about monolithic architecture. 3. What is Spring dependency injection? 4. Write code for Restful web service. 5. What is stored procedure? 6. Difference between == and === in JavaScript? 7. How to schedule jobs in Jenkins? 8. Explain about your previous project 9. Explain the singleton design pattern. 10. What is Spring dependency injection? again.
+
+JAVA 8+, OOP, SOLID, Spring, Hibernate and Rest API.
+
+1. What are Lambda Expressions? 2. Read a list and print odd numbers using lambda. 3. Function Interface 4. Serialisation 5. Rest api creation process 6. Change server port in spring boot. 7. Transient keyword
+
+What is static variable in java
+
+https://medium.com/@s.sreejith/core-java-interview-cheat-sheet-dce4f2590f4f
+
+ 1. encasulation, inheritance, polymorphis, abstraction why we use that concepts. how can we achieve those concept. 2. collection in java, difference b/w Arraylist and hashmap. 3. WAP to reverse a given String
+ 
+ Difference between interface and abstract class with coding example
+ 
+ Basic oops concepts, final, static keyword, serialization and deserialization concepts, which method used for serialization of object, 	
+ 
+ 1. Build a Rest API for employee class to get and store data in and from the database. 2. Write test cases for the same. 3. 
+ 
+ Spring Boot Java 8 lambda expression and streams Microservices Multithreading and Concurrency(Concurrent Collections) IOC and DI Internal working of Hibernate proxy's Spring Core
+
+Question 1
+
+1.Difference between 1st and 2nd level cache 2.Factory Design pattern 3.Coding:Find duplicates in array along with its frequency 4.Coding:Height of Binary Search tree. 5.Lambda expressions and Stream API - use cases and scenarios along with coding hands on.
+
+1] Method overriding and overloading examples 2] List reversal program
+
+1) Difference between overload & override 2) Other than assigning null, how can you improve garbage collection of an object? 3) Difference between JDBC and Hibernate
+
+What is exception? when should occur NullPointer exception?write a program for NullPointerException? explain about singleton design pattern? Write a thread safe Singleton class. can we write a class in scriptlet? Expalain abou Hashset?
+
+ 1. create a simple HTML page with two text boxes and a button. 2. Puzzle : 9 coins with one coin having lesser weight. 3 switch and one bulb. 3. Which is the best sorting algorithm? Ans: Quick Sort 4. SQL query to find the second highest salary of the employee 5. What is hashing?
+
+How do you compile a Java class via command prompt?
+
+1). Difference between ArrayList and LinkedList? 2). What is Map? 3). What is Vector? 4). Difference between Overloading and Overriding? 5). Can possible to create Object for Parent class with child class reference? ex: Class A{ //Statements } Class B extends A{ //Statements PSVM(){ B Reference_Variable=new A(); } } 6). What is Synchronization? 7). what is the time complexity of Arraylist and Linked List? 8). Write a program to print the higher version of a Value? Ex: Value1=7.3.4.2.5.9 Value2=7.3.2.3.8.1 o/p: 7.3.4.2.5.9 in these 2 values write a program to print the Higher Version? 9). Test case: "Hai i am SAP" O/P: "iaH i ma PAS" write a program in java for above O/P? 10). About Project? 11). Flow of execution of a project with Architecture? 12).Basic SQL Questions? (DDL DML TCl Commands) 13). About Agile/Driven Methodology? 14). What is final keyword? 15) what is Data hiding? 16) Design patterns? (Singleton Design Pattern program) 17). Internal implementation of HashSet?
+
+Serialization
+ 
+Difference Between SOAP and REST? Arraylist vs LinkedList? HashMap, hashcode Null pointer exception handling
+
+Java 1. Which version of java you are using I said Java 8 then he started with series of Java 8 questions > Functional Interface > Streams > Lambda expressions > default method in interface > few more cross questions 2. Sort HashMap with value 3. What is Live Lock HTML / Angular / CSS > Why doctype tag is used in HTML > Benefits of keeping script tag in head tag instead of body tag > BOM vs DOM > Angular Routing > Which version of CSS you are using ? I said CSS3 then couple of css3 specific questions > Media queries
+
+Code Singleton class and explain its usage
+
+Oops concepts Classes and objects super keyword Object instantiation Cloning Serialization Jsp attribute Include difference in Jsp Struts life cycle Struts configuration initialization JSF validation Cancel button no validation Class. For name in details Callable statements Procedure call from java Modifiers in java Protected class Singleton design pattern in detail Exceptions in java
+
+How DI works underneath and its downside? How hashmap works? how to hashcode BigInteger? what is relationships between hashcode and equal method? What is deadlock, livelock? What is stackoverflow exception? What is index in sql and its downside? What do you know about ORM?
+
+1st interview - abstract class/interface , immutable, hashmap , threads, euqals/hashcode etc 2nd interview - where do you see urself in five years, how do u handle stress/conflicts/long working hours etc
+
+Difference between Runnable & Thread
+
+Java Collection How HashMap works? Countdownlatch Singleton design patter with code Queue using stack How to manage counter in multi threaded env (AtomicInteger) Data structure for retrieving information based on name (In Millions of records)
+
+1.Serialization 2.String buffer and String Builder 3. Inter Thread Communication 4.String pool 5. JSTL 6.Object Cloning 7.JSP life cycle
